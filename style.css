@@ -103,6 +103,7 @@
   font-style: italic;
 }
 
+/* Button */
 .btn {
   display: inline-block;
   padding: 12px 30px;
@@ -361,23 +362,4 @@
   outline: none;
   border-color: #5a3825;
   box-shadow: 0 0 0 2px rgba(196, 139, 99, 0.2);
-}
-
-/* Submit button */
-.btn {
-  display: inline-block;
-  background-color: #c48b63;
-  color: #fff;
-  padding: 12px 30px;
-  border: none;
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 1rem;
-  cursor: pointer;
-  align-self: center;
-  transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-  background-color: #5a3825;
 }
